@@ -1,0 +1,9 @@
+.bill-entry-form {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .bill-entry-form h2 {
+    margin-top: 0;
+  }

@@ -1,0 +1,13 @@
+.app-container {
+  margin: 20px;
+}
+
+.tables-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table-container {
+  flex: 1;
+  margin: 0 5px;
+}
